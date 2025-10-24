@@ -1,0 +1,14 @@
+> Alpha
+CGTAGTAAGT
+
+> Bravo
+AGAATTGAAT
+
+> Charlie
+CGTATTTAAC
+
+> Delta
+CATACTGAAT
+
+> Echo
+TGAACTCAGA
